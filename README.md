@@ -45,16 +45,16 @@
 
 ### 📼 Appearance
 
-관계형 데이터베이스 기반의 교육센터 운영 프로그램입니다.
+콘솔로 구현한 영화관 예매 및 관리 프로그램 입니다.
 
- ### 👋 Admin
- ![고객](https://user-images.githubusercontent.com/65211288/84998831-500fba80-b18b-11ea-8693-5bf7ed5c55e1.gif)
- ### 👋 Student
- ![비회원](https://user-images.githubusercontent.com/65211288/85092567-e0e6a480-b224-11ea-8ae1-5c6f002032cb.gif)
- ### 👋 Teacher
-![매장관리자](https://user-images.githubusercontent.com/65211288/85092653-1f7c5f00-b225-11ea-8242-c6f5def17d17.gif)
-### 👋 Teacher
-![시스템관리자](https://user-images.githubusercontent.com/65211288/85092653-1f7c5f00-b225-11ea-8242-c6f5def17d17.gif)
+ ### 👋 Member
+ ![회원]()
+ ### 👋 NonMember
+ ![비회원]()
+ ### 👋 StoreManager
+![매장관리자]()
+### 👋 SystemManager
+![시스템관리자]()
 
 ### 📑 Role & Member
 
@@ -84,15 +84,17 @@
         <th>화면설계</th>
         <th>시스템 관리자</th>        
         <th>매장 관리자</th>
-        <th colspan="4">고객</th>
+        <th colspan="2">회원</th>
+        <th>회원,비회원</th>
+        <th>회원</th>
     <tr>
         <th>소스(코딩)</th>
-        <th>시스템 관리자<br>개발 및 화면<br>설계,로그인,회원가입 구현</th>
-        <th>매장 관리자<br>개발 및 화면<br>설계,검색하기 구현 </th>
+        <th>시스템관리자<br>개발 및 화면<br>설계,로그인,회원가입<br> 구현</th>
+        <th>매장 관리자<br>개발 및 화면<br>설계,검색 메뉴 구현 </th>
         <th>회원부분<br>개발 및 화면<br>설계, 상품, 영화순위 구현<br>
-        <th>회원부분개발<br>및 화면설계, <br>전체 소스 취합,<br>오류수정<br>좌석선택 구현</th>
-        <th>회원부분개발<br>및 화면설계, <br>예매하기 구현,<br>비회원 화면 구현</th>
-       <th>회원부분개발<br>및 화면설계, <br>마이페이지 구현</th>
+        <th>회원부분개발<br>및 화면설계, <br>전체 소스취합,<br>오류수정<br>좌석선택 구현</th>
+        <th>회원부분 개발<br>및 화면설계, <br>예매하기,<br>비회원 화면 구현</th>
+        <th>회원부분 개발<br>및 화면설계, <br>마이페이지 구현</th>
     </tr>
     <tr>
         <th>의견제안, 화면캡쳐</th>
