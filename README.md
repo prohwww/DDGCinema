@@ -48,11 +48,11 @@
  ### 👋 Member
  ![회원](https://im2.ezgif.com/tmp/ezgif-2-98dc8c66738d.gif)
  ### 👋 NonMember
- ![비회원]()
+ ![비회원](https://im2.ezgif.com/tmp/ezgif-2-c18d98c9b94e.gif)
  ### 👋 StoreManager
-![매장관리자]()
+![매장관리자](https://im2.ezgif.com/tmp/ezgif-2-f9a8117515e1.gif)
 ### 👋 SystemManager
-![시스템관리자]()
+![시스템관리자](https://im2.ezgif.com/tmp/ezgif-2-a1c20e59a8c8.gif)
 
 ### 📑 Role & Member
 
