@@ -14,7 +14,7 @@
     </tr>
     <tr>
         <th>프로젝트 성격</th>
-        <th>콘솔 프로젝트</th>
+        <th>JAVA 콘솔 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 6명<br>
           (<a href="https://github.com/prohwww">전혜원</a>｜강경원｜정희수｜윤희선｜강혜림｜오희준)
