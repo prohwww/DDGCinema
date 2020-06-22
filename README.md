@@ -46,13 +46,13 @@
 콘솔로 구현한 영화관 예매 및 관리 프로그램 입니다.
 
  ### 👋 Member
- ![회원](https://im2.ezgif.com/tmp/ezgif-2-98dc8c66738d.gif)
+ ![회원](https://user-images.githubusercontent.com/55887059/85264640-f0c3ea00-b4ab-11ea-8ae0-619e426a167b.gif)
  ### 👋 NonMember
- ![비회원](https://im2.ezgif.com/tmp/ezgif-2-c18d98c9b94e.gif)
+ ![비회원](https://user-images.githubusercontent.com/55887059/85264645-f3264400-b4ab-11ea-99d2-b6707daac085.gif)
  ### 👋 StoreManager
-![매장관리자](https://im2.ezgif.com/tmp/ezgif-2-f9a8117515e1.gif)
+![매장관리자](https://user-images.githubusercontent.com/55887059/85264661-f6b9cb00-b4ab-11ea-9742-63dd97a155a9.gif)
 ### 👋 SystemManager
-![시스템관리자](https://im2.ezgif.com/tmp/ezgif-2-a1c20e59a8c8.gif)
+![시스템관리자](https://user-images.githubusercontent.com/55887059/85264650-f4577100-b4ab-11ea-929e-c56be85e980e.gif)
 
 ### 📑 Role & Member
 
