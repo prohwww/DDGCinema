@@ -1,5 +1,5 @@
 # DDGCinema
-![메인화면](https://user-images.githubusercontent.com/55887059/85112361-7cd9d580-b250-11ea-8bf9-8d40050f388b.png)
+![메인화면](https://user-images.githubusercontent.com/55887059/92358558-9f2f1100-f124-11ea-8c0e-a48af09268d4.jpg)
 
 ### 👋 Introduction
 
@@ -87,7 +87,7 @@
         <th>회원</th>
     <tr>
         <th>소스(코딩)</th>
-        <th>시스템<br>관리자<br>개발 및 화면<br>설계,로그인,회원가입<br> 구현</th>
+        <th>시스템<br>관리자<br>개발 및 화면<br>설계,로그인,회원가입 구현</th>
         <th>매장 관리자<br>개발 및 화면<br>설계,<br>검색 메뉴 구현 </th>
         <th>회원부분<br>개발 및 화면<br>설계, 상품, 영화순위 구현<br>
         <th>회원부분개발<br>및 화면설계, <br>전체 소스<br>취합,<br>오류수정<br>좌석선택<br> 구현</th>
@@ -110,6 +110,6 @@
         <th>회원 부분  개발, <br>문서작업, <br>발표, 의견제안</th>
         <th>회원 부분  개발, <br> 문서작업 <br>소스취합, <br>발표보조<br> 버그수정</th>
         <th>회원 부분  개발, <br> 비회원 부분 개발,  <br>의견제안, <br> 버그수정</th>
-        <th>회원 부분  개발, <br>데이터수정, <br>문서작업</th>
+        <th>회원 부분  개발, <br>데이터수정, <br>의견제안, <br>문서작업</th>
     </tr>
 </table>
